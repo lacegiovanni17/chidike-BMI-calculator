@@ -1,7 +1,7 @@
 # chidike-BMI-calculator
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
-💻 This is a product card made with HTML, CSS and Javascript. 
+💻 This is a BMI calculator made with HTML, CSS and Javascript. 
 🌍 Website:  https://lacegiovanni17.github.io/chidike-BMI-calculator/
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
