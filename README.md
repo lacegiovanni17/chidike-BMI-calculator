@@ -1,10 +1,11 @@
 # chidike-BMI-calculator
-👋 Hi, I’m Chidike Henry 
-😎 I’m a web developer 
-💻 This is a BMI calculator made with HTML, CSS and Javascript. 
-🌍 Website:  https://lacegiovanni17.github.io/chidike-BMI-calculator/
-💞️ I’m looking to collaborate on JS projects 
-📫 How to reach me dk1online25@gmail.com
+## About
+* 👋 Hi, I’m Chidike Henry 
+* 😎 I’m a web developer 
+* 💻 This is my BMI Calculator website  made with HTML and CSS.
+* 🌍 Website:  https://dice-game-dk-js.netlify.app
+* 💞️ I’m looking to collaborate on JS projects 
+* 📫 How to reach me chidike.henry@gmail.com
 
 ![BMI Calculator](https://user-images.githubusercontent.com/30509335/188322994-2414acf6-80d1-4409-943e-a00773805f4c.PNG)
 
